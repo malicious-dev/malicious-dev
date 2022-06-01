@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malicious-dev&label=Profile%20views&color=0e75b6&style=onedark" alt="malicious-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malicious-dev" alt="malicious-dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malicious-dev&theme=onedark" alt="malicious-dev" /></a> </p>
 
 - 🌱 I’m currently learning **Frameworks, courses, etc**
 
